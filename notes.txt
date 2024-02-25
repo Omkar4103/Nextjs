@@ -1,0 +1,4 @@
+Rendering is of two types:
+1. Client side:
+2. Server side: Can be Static(at build time) or
+Dynamic (at request time)
